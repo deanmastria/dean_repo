@@ -1,1 +1,0 @@
-git status: dsplays the state of working directory.

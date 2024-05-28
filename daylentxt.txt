@@ -1,1 +1,0 @@
-git merge:integrate changes from divergant branches.

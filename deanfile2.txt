@@ -1,3 +1,0 @@
-# Header
-
-"git fetch: downlaods commit files and refs from a remote repository into your local repository."

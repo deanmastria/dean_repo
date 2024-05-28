@@ -1,3 +1,9 @@
 # Header
 
 "git clone: clones a repository into a newly created directory"
+
+"git fetch: downlaods commit files and refs from a remote repository into your local repository."
+
+git merge:integrate changes from divergant branches.
+
+git status: dsplays the state of working directory.
