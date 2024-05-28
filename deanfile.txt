@@ -1,0 +1,3 @@
+# Header
+
+"git clone: clones a repository into a newly created directory"
